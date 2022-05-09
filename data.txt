@@ -1,3 +1,3 @@
 Name: Maxime
 Age: 40
-Favorite color: Blue
+Favorite color: Green
