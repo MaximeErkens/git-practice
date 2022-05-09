@@ -1,0 +1,3 @@
+Name: Maxime
+Age: 40
+Favorite color: Blue
